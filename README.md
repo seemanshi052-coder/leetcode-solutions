@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
@@ -21,6 +22,7 @@
 | [0088-merge-sorted-array](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
