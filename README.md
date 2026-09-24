@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
