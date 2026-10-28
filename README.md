@@ -11,6 +11,7 @@
 | [0905-sort-array-by-parity](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -65,6 +66,7 @@
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
