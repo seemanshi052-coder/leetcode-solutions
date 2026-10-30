@@ -61,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+| [2469-convert-the-temperature](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
