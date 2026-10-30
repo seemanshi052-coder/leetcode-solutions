@@ -62,6 +62,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [1025-divisor-game](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2469-convert-the-temperature](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Dynamic Programming
