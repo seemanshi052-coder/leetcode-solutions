@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +84,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
