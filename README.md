@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0088-merge-sorted-array](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -45,6 +46,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
