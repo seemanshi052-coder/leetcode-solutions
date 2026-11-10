@@ -13,6 +13,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -46,6 +47,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/seemanshi052-coder/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
